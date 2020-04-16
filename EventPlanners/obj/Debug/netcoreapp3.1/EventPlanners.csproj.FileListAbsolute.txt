@@ -1,0 +1,10 @@
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\bin\Debug\netcoreapp3.1\EventPlanners.exe
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\obj\Debug\netcoreapp3.1\EventPlanners.csprojAssemblyReference.cache
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\obj\Debug\netcoreapp3.1\staticwebassets\EventPlanners.StaticWebAssets.Manifest.cache
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\obj\Debug\netcoreapp3.1\staticwebassets\EventPlanners.StaticWebAssets.xml
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\obj\Debug\netcoreapp3.1\EventPlanners.AssemblyInfoInputs.cache
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\obj\Debug\netcoreapp3.1\EventPlanners.AssemblyInfo.cs
+C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventPlanners\obj\Debug\netcoreapp3.1\EventPlanners.RazorTargetAssemblyInfo.cache

@@ -1,0 +1,36 @@
+networks:
+  backend: {}
+  frontend: {}
+services:
+  catalog:
+    build:
+      context: C:\Users\srajvanshi\source\repos\Git\KAL_SWC6\EventPlanningOnContainers\EventCatalogApi
+      dockerfile: Dockerfile
+    container_name: eventcatalogapi
+    depends_on:
+    - mssqlserver
+    environment:
+      DatabaseName: CatalogDb_1
+      DatabasePassword: Covid2019(!)
+      DatabaseServer: mssqlserver
+      DatabaseUser: sa
+      ExternalCatalogBaseUrl: http://localhost:6600
+    image: events/catalogapi
+    networks:
+      backend: null
+      frontend: null
+    ports:
+    - published: 6600
+      target: 80
+  mssqlserver:
+    container_name: eventssqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Covid2019(!)
+    image: microsoft/mssql-server-linux:latest
+    networks:
+      backend: null
+    ports:
+    - published: 1446
+      target: 1433
+version: '3.4'
